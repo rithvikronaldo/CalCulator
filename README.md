@@ -1,4 +1,6 @@
 Calorie Tracker App
+
+
 Welcome to the Calorie Tracker app, a user-friendly application developed using Swift UI and CoreData. This app empowers users to easily track their daily calorie intake, make adjustments, and manage food items efficiently.
 
 Features
